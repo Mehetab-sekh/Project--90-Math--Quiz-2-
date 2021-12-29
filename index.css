@@ -1,0 +1,58 @@
+body
+{
+	background-image: url("https://i.pinimg.com/originals/ee/16/63/ee1663cdf822962a2c46bfc21aa71e23.gif");
+    background-size:cover ;
+	background-position: center;
+	margin-top: 100px;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: rgb(248, 248, 248);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#button_adduser{
+    background-color:rgb(0, 0, 0);
+    width:20%;
+    border-radius: 20px;
+    border-style:dotted;
+   font-size:20px;
+   color:white;
+   margin-bottom:30px;
+}
+
+#button_adduser:hover{
+    background-color: rgb(0, 0, 0);
+    color:white;
+    margin-bottom:30px;
+}
+h2{
+    color: blanchedalmond;
+}
